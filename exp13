@@ -1,0 +1,10 @@
+# CSA1557-CLOUD-COMPUTING
+CLOUD COMPUTING PRACTICALS
+1: create a account in microsoft azure or login.
+2: open azure and go to  resource groups.
+3: create new resource group and give basic configurations.
+4: finally click on review+create 
+new resource is created successfully.
+5: click on create virtual machine
+6: give basic configurations.
+7: give size of ram and cpu.
