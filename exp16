@@ -1,0 +1,9 @@
+# CSA1557-CLOUD-COMPUTING
+CLOUD COMPUTING PRACTICALS
+creating web application
+1: open azure and click on web services
+2: click on create new web application
+:3 give necessary configuration
+4: click on review+create 
+5: deploy the web application
+6: on successfull deployement copy web url and paste in a browser
