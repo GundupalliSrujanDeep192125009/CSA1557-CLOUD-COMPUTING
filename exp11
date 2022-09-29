@@ -1,0 +1,8 @@
+# CSA1557-CLOUD-COMPUTING
+CLOUD COMPUTING PRACTICALS
+hange hardware compatability of clone vm
+1: open vm workstation and select cloned vm.
+2: go to settings and select harddrive
+3: select create new virtual disk
+5: assign size for disk as 4gb
+6: click on ok and launch
